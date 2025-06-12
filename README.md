@@ -10,10 +10,7 @@ I'm a fullstack developer
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walidkhrouf/walidkhrouf/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/walidkhrouf/walidkhrouf/output/github-snake.svg" />
 </picture>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=walidkhrouf&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=walidkhrouf&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
