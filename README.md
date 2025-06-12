@@ -1,5 +1,5 @@
 # 🧑 About Me:
-fullstack developer
+I'm a fullstack developer
 
 
 # 💻 Tech Stack:
