@@ -1,5 +1,6 @@
-# 🧑 About Me:
-I'm a fullstack developer
+# Hello World! I'm Walid 👋🏼:
+💻 I'm a fullstack developer
+👨🏼‍🎓 studying at ESPRIT [https://www.esprit.tn](https://www.esprit.tn)
 
 
 # 💻 Tech Stack:
