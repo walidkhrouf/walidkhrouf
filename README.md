@@ -1,7 +1,7 @@
 # Hello World! I'm Walid 👋🏼:
-💻 I'm a fullstack developer
+💻 I'm a Fullstack Developer
 
-👨🏼‍🎓 studying at <a href="https://www.esprit.tn" style="text-decoration: none; color: inherit;">ESPRIT</a>
+👨🏼‍🎓 Studying at <a href="https://www.esprit.tn">ESPRIT</a>
 
 
 # 🌐 Tech Stack:
