@@ -6,7 +6,7 @@
 
 - 💻 I'm a Fullstack Developer
 
-- 👨🏼‍🎓 Currently studying at <a href="https://www.esprit.tn">ESPRIT</a>
+- 👨🏼‍🎓 Currently studying at <a href="https://www.uni-marburg.de/en">Philipps-Universität Marburg</a> & <a href="https://www.esprit.tn">ESPRIT</a>
   
 - 📫 How to reach me **walidkhrouf9@gmail.com**
 
